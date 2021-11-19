@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T23:07:13.025Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.8.3" etag="faDPeuRpqCP3pbwciq9N" type="github"><diagram id="425dM-m_t1-ZA8BtnlPo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-19T23:10:35.241Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="uBYXN1-_bObxxKhSTDg4" version="15.8.3" type="github">
+  <diagram id="425dM-m_t1-ZA8BtnlPo" name="Page-1">
+    <mxGraphModel dx="1416" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgLwdihRWbZ7Ty-88pLr-2" target="DgLwdihRWbZ7Ty-88pLr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-2" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="121" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgLwdihRWbZ7Ty-88pLr-4" target="DgLwdihRWbZ7Ty-88pLr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-4" value="&quot;Cual es valor del primer cateto?&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="201" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="DgLwdihRWbZ7Ty-88pLr-6" target="DgLwdihRWbZ7Ty-88pLr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-6" value="catetoA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgLwdihRWbZ7Ty-88pLr-8" target="DgLwdihRWbZ7Ty-88pLr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-8" value="res = sqrt((catetoA * catetoA) + (catetoB * catetoB))" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgLwdihRWbZ7Ty-88pLr-10" target="DgLwdihRWbZ7Ty-88pLr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-10" value="&quot;El valor de la hipotenusa es: &quot; + res" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-11" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DgLwdihRWbZ7Ty-88pLr-13" target="DgLwdihRWbZ7Ty-88pLr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-13" value="&quot;Cual es el del segundo cateto?&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="DgLwdihRWbZ7Ty-88pLr-15" target="DgLwdihRWbZ7Ty-88pLr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-15" value="catetoB" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgLwdihRWbZ7Ty-88pLr-16" value="&lt;font face=&quot;Raleway&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;Hipotenusa utilizando el teorema de pitagoras&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="440" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
