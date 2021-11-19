@@ -1,43 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T22:29:15.068Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="EFcM_p9MmjwefUvmlkdH" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T23:12:26.163Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="U8r4SzAzIHuiazXlHlvW" version="15.8.3" type="github">
   <diagram id="Fb53Q4DdFGXQYKBbzu5T" name="Page-1">
     <mxGraphModel dx="1416" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-1" target="c6YfM0sFkZ5efCqjhjCh-2" edge="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-1" target="c6YfM0sFkZ5efCqjhjCh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" vertex="1">
           <mxGeometry x="362" y="121" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-2" target="c6YfM0sFkZ5efCqjhjCh-3" edge="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-2" target="c6YfM0sFkZ5efCqjhjCh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-2" value="&quot;Cual es la longitud de los lados?&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-2" value="&quot;Cual es la longitud de los lados?&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" vertex="1">
           <mxGeometry x="362" y="181" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-3" target="c6YfM0sFkZ5efCqjhjCh-5" edge="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-3" target="c6YfM0sFkZ5efCqjhjCh-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-3" value="longitud" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-3" value="longitud" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" vertex="1">
           <mxGeometry x="362" y="301" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-5" target="c6YfM0sFkZ5efCqjhjCh-6" edge="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-5" target="c6YfM0sFkZ5efCqjhjCh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-5" value="res = longitud * longitud" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-5" value="res = longitud * longitud" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" vertex="1">
           <mxGeometry x="362" y="421" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-6" target="c6YfM0sFkZ5efCqjhjCh-8" edge="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-6" target="c6YfM0sFkZ5efCqjhjCh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-6" value="&quot;El area del cuadrado es: &quot; + res" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-6" value="&quot;El area del cuadrado es: &quot; + res" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" vertex="1">
           <mxGeometry x="362" y="541" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c6YfM0sFkZ5efCqjhjCh-8" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-8" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" vertex="1">
           <mxGeometry x="362" y="661" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sYhJXESLBXyYCMyih_pq-1" value="&lt;h1&gt;Area del cuadrado&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="sYhJXESLBXyYCMyih_pq-1" value="&lt;h1&gt;Area del cuadrado&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;" parent="1" vertex="1">
           <mxGeometry x="242" y="40" width="360" height="120" as="geometry" />
         </mxCell>
       </root>
