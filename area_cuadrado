@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2021-11-19T22:12:35.479Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="lIiWqXiNdoMDBU__P8JN" version="15.8.3" type="github">
+  <diagram id="Fb53Q4DdFGXQYKBbzu5T" name="Page-1">
+    <mxGraphModel dx="1416" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-1" target="c6YfM0sFkZ5efCqjhjCh-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-2" target="c6YfM0sFkZ5efCqjhjCh-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-2" value="&quot;Cual es la longitud de los lados?&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-3" target="c6YfM0sFkZ5efCqjhjCh-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-3" value="longitud" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-5" target="c6YfM0sFkZ5efCqjhjCh-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-5" value="res = longitud * longitud" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c6YfM0sFkZ5efCqjhjCh-6" target="c6YfM0sFkZ5efCqjhjCh-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-6" value="&quot;El area del cuadrado es: &quot; + res" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c6YfM0sFkZ5efCqjhjCh-8" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
