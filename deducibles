@@ -1,1 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T04:46:59.992Z" agent="5.0 (X11)" version="15.9.6" etag="Csj_nt7MbWYIf7V-_mHO" type="github"><diagram id="a6wYkIwzCaGH5f4b7TkH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-16T04:59:40.022Z" agent="5.0 (X11)" etag="VdzZPL8MTk76WeShyoZ4" version="15.9.6" type="github">
+  <diagram id="a6wYkIwzCaGH5f4b7TkH" name="Page-1">
+    <mxGraphModel dx="977" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wPDUjdViBHL6QczM6817-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=24;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-2" target="wPDUjdViBHL6QczM6817-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-2" value="double sueldo, AFP, ISR, SFS;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="90" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=24;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-4" target="wPDUjdViBHL6QczM6817-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-4" value="&quot;Ingrese el sueldo: &quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="355" y="170" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.532;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-5" target="wPDUjdViBHL6QczM6817-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-5" value="sueldo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=24;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-7" target="wPDUjdViBHL6QczM6817-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-7" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-8" target="wPDUjdViBHL6QczM6817-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-8" value="afp = sueldo * 0.0287;&lt;br style=&quot;font-size: 14px&quot;&gt;sfs = sueldo * 0.0304;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="167" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-9" target="wPDUjdViBHL6QczM6817-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-14" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Raleway;" vertex="1" connectable="0" parent="wPDUjdViBHL6QczM6817-13">
+          <mxGeometry x="-0.766" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-9" target="wPDUjdViBHL6QczM6817-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-17" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Raleway;" vertex="1" connectable="0" parent="wPDUjdViBHL6QczM6817-15">
+          <mxGeometry x="-0.6627" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-9" value="(sueldo * 12) &amp;gt; 867123.00" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="480" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-10" target="wPDUjdViBHL6QczM6817-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-18" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Raleway;" vertex="1" connectable="0" parent="wPDUjdViBHL6QczM6817-16">
+          <mxGeometry x="-0.3231" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-10" target="wPDUjdViBHL6QczM6817-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-24" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Raleway;" vertex="1" connectable="0" parent="wPDUjdViBHL6QczM6817-20">
+          <mxGeometry x="-0.6769" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-10" value="(sueldo * 12) &amp;gt; 624329.00" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-11" target="wPDUjdViBHL6QczM6817-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-23" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Raleway;" vertex="1" connectable="0" parent="wPDUjdViBHL6QczM6817-22">
+          <mxGeometry x="-0.6615" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-11" target="wPDUjdViBHL6QczM6817-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-11" value="(sueldo * 12) &amp;gt; 416220.00" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-12" target="wPDUjdViBHL6QczM6817-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-12" value="ISR = sueldo * 0.25;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="600" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-19" target="wPDUjdViBHL6QczM6817-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-19" value="ISR = sueldo * 0.2;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-21" target="wPDUjdViBHL6QczM6817-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-21" value="ISR = sueldo * 0.15;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-25" target="wPDUjdViBHL6QczM6817-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-25" value="ISR = 0;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="840" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.525;entryY=-0.019;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-27" target="wPDUjdViBHL6QczM6817-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="430" y="920" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-28" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="720" y="995" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="wPDUjdViBHL6QczM6817-29" target="wPDUjdViBHL6QczM6817-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-29" value="&quot;Sueldo: {0}\nAFP: {1}\nSFS: {2}\nISR: {3}\nSueldo neto: {4}&quot;, sueldo, afp, sfs, isr, sueldo - (afp + sfs + isr)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="970" width="314.44" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wPDUjdViBHL6QczM6817-38" value="Deducibles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
