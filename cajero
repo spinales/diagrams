@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T05:00:41.708Z" agent="5.0 (X11)" version="15.9.6" etag="8b7I4S8T-7cTvz8dG1Bm" type="github"><diagram id="OmGkcX8gotSYCEByT6TR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-16T05:32:48.696Z" agent="5.0 (X11)" etag="8HlCYmOERqBQexa8fkjH" version="15.9.6" type="github">
+  <diagram id="OmGkcX8gotSYCEByT6TR" name="Page-1">
+    <mxGraphModel dx="977" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-2" target="7DGtWn7EJJmH9CPpZziI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-2" value="&lt;div&gt;int monto;&lt;/div&gt;double[] monedas = {2000,1000,500,200,100,50,25,10,5,1};" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="105" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=24;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-4" target="7DGtWn7EJJmH9CPpZziI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-4" value="&quot;Ingrese el monto&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=12;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-6" target="7DGtWn7EJJmH9CPpZziI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-6" value="monto" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="335" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-8" target="7DGtWn7EJJmH9CPpZziI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-8" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=12;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-9" target="7DGtWn7EJJmH9CPpZziI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-20" value="&lt;div&gt;Si&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Raleway;" vertex="1" connectable="0" parent="7DGtWn7EJJmH9CPpZziI-13">
+          <mxGeometry x="-0.24" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-9" target="7DGtWn7EJJmH9CPpZziI-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="435" />
+              <mxPoint x="520" y="810" />
+              <mxPoint x="373" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Raleway;" vertex="1" connectable="0" parent="7DGtWn7EJJmH9CPpZziI-18">
+          <mxGeometry x="-0.6288" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-9" value="i &amp;lt; monedas.Lenght" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="125" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=12;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-10" target="7DGtWn7EJJmH9CPpZziI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-10" value="&quot;${0}: {1}&quot;, monedas[i], Math.Floor(monto/monedas[i])" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=12;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="550" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" edge="1" parent="1" source="7DGtWn7EJJmH9CPpZziI-11" target="7DGtWn7EJJmH9CPpZziI-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="770" />
+              <mxPoint x="280" y="770" />
+              <mxPoint x="280" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-11" value="&lt;div&gt;monto = monto % monedas[i];&lt;/div&gt;&lt;div&gt;i++;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-17" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="990" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-21" value="Math.Floor, redondea un numero al menor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="565" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7DGtWn7EJJmH9CPpZziI-24" value="Cajero" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Raleway;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRaleway;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
