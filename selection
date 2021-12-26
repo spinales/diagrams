@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T18:31:58.951Z" agent="5.0 (X11)" etag="p00WxtkC2AirDxyDvqx8" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-26T19:33:49.449Z" agent="5.0 (X11)" etag="a29xqcAPx_mZruZZ7odG" version="16.1.0" type="github">
   <diagram id="38z37isQ_i00LDmRdC-_" name="Page-1">
-    <mxGraphModel dx="1180" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4046" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-1" value="Selection Sort" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-1" value="Selection Sort" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
           <mxGeometry x="680" y="50" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-3" target="CtC1JAKlTEWZh6jnF4Kn-5">
@@ -13,129 +13,142 @@
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-3" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360" y="10" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-5" target="CtC1JAKlTEWZh6jnF4Kn-7">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-5" target="CtC1JAKlTEWZh6jnF4Kn-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-5" value="int i =0;&lt;br style=&quot;font-size: 14px&quot;&gt;[11]int arr = {31,13,12,4,18,16,7,2,3,0,10};" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-5" value="int i =0;&lt;br style=&quot;font-size: 14px;&quot;&gt;[11]int arr = {31,13,12,4,18,16,7,2,3,0,10};" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270.5" y="80" width="259" height="59.5" as="geometry" />
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-7" target="CtC1JAKlTEWZh6jnF4Kn-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="290" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-14" target="CtC1JAKlTEWZh6jnF4Kn-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-7" value="isSwapped" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-26" target="CtC1JAKlTEWZh6jnF4Kn-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="350" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-9" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-8">
-          <mxGeometry x="-0.3671" relative="1" as="geometry">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-47" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-45">
+          <mxGeometry x="-0.2904" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-14" target="CtC1JAKlTEWZh6jnF4Kn-26">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-14" target="CtC1JAKlTEWZh6jnF4Kn-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="440" />
-              <mxPoint x="760" y="920" />
-              <mxPoint x="120" y="920" />
-              <mxPoint x="120" y="305" />
+              <mxPoint x="454" y="215" />
+              <mxPoint x="680" y="215" />
+              <mxPoint x="680" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-11" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-10">
-          <mxGeometry x="-0.899" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-14" target="CtC1JAKlTEWZh6jnF4Kn-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-13" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-12">
-          <mxGeometry x="-0.2787" y="-2" relative="1" as="geometry">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-50" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-49">
+          <mxGeometry x="-0.887" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-14" value="i &amp;lt; len(arr) - 1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="344.29" y="400" width="111.43" height="90" as="geometry" />
+          <mxGeometry x="342.86" y="160" width="111.43" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.428;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-19" target="CtC1JAKlTEWZh6jnF4Kn-21">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-19" target="CtC1JAKlTEWZh6jnF4Kn-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-16" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-15">
-          <mxGeometry x="-0.8262" y="-1" relative="1" as="geometry">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-42" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-40">
+          <mxGeometry x="-0.2762" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-19" target="CtC1JAKlTEWZh6jnF4Kn-23">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-19" target="CtC1JAKlTEWZh6jnF4Kn-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="610" />
-              <mxPoint x="600" y="780" />
-              <mxPoint x="470" y="780" />
+              <mxPoint x="600" y="420" />
+              <mxPoint x="600" y="770" />
+              <mxPoint x="437" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-18" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-17">
-          <mxGeometry x="-0.911" y="-5" relative="1" as="geometry">
-            <mxPoint x="11" y="-5" as="offset" />
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-43" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-41">
+          <mxGeometry x="-0.8929" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-19" value="arr[i-1] &amp;gt; arr[i]" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="347.14" y="560" width="100" height="100" as="geometry" />
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-19" value="j &amp;lt; len(arr)" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="348.58" y="370" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-21" target="CtC1JAKlTEWZh6jnF4Kn-23">
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" target="CtC1JAKlTEWZh6jnF4Kn-19">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="720" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="310" y="780" />
-              <mxPoint x="470" y="780" />
+              <mxPoint x="413" y="760" />
+              <mxPoint x="200" y="760" />
+              <mxPoint x="200" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-21" value="arr[ i ], arr[ i-1 ] = arr[ i-1 ], arr[ i ];&lt;br style=&quot;font-size: 14px;&quot;&gt;isSwapped = true;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
-          <mxGeometry x="195" y="690" width="230" height="60" as="geometry" />
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-21" value="j++" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="348.58" y="660" width="128.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-23" target="CtC1JAKlTEWZh6jnF4Kn-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="890" />
-              <mxPoint x="160" y="890" />
-              <mxPoint x="160" y="440" />
+              <mxPoint x="437" y="950" />
+              <mxPoint x="160" y="950" />
+              <mxPoint x="160" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-23" value="i++" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="409.5" y="800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-26" target="CtC1JAKlTEWZh6jnF4Kn-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="800" y="305" />
-              <mxPoint x="800" y="990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-25" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-24">
-          <mxGeometry x="-0.7786" y="-6" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-26" value="!isSwapped" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="347.14" y="260" width="102.86" height="90" as="geometry" />
+          <mxGeometry x="376.5" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-28" target="CtC1JAKlTEWZh6jnF4Kn-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-28" value="arr" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="380" y="960" width="100" height="60" as="geometry" />
+          <mxGeometry x="350.00000000000006" y="960" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CtC1JAKlTEWZh6jnF4Kn-29" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1040" width="80" height="50" as="geometry" />
+          <mxGeometry x="360" y="1040" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-30" target="CtC1JAKlTEWZh6jnF4Kn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-30" value="int min = i, j = i+1;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="338.58" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-31" target="CtC1JAKlTEWZh6jnF4Kn-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-34" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-33">
+          <mxGeometry x="-0.5672" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-31" target="CtC1JAKlTEWZh6jnF4Kn-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="550" />
+              <mxPoint x="552" y="550" />
+              <mxPoint x="552" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" connectable="0" parent="CtC1JAKlTEWZh6jnF4Kn-35">
+          <mxGeometry x="-0.8571" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-31" value="arr[ j ] &amp;lt; arr[ min ]" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="342.58000000000004" y="500" width="106" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-32" target="CtC1JAKlTEWZh6jnF4Kn-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-32" value="min = j" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=14;" edge="1" parent="1" source="CtC1JAKlTEWZh6jnF4Kn-38" target="CtC1JAKlTEWZh6jnF4Kn-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtC1JAKlTEWZh6jnF4Kn-38" value="arr[ j ], arr[ i ] = arr[ i ], arr[ j ];" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;" vertex="1" parent="1">
+          <mxGeometry x="321.5" y="790" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
